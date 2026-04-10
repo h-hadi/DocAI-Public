@@ -390,3 +390,15 @@ DocAI-Public/
 ## License
 
 [MIT](LICENSE) — Created by [Haidar Hadi](https://github.com/hhadi)
+
+---
+
+## PAI Status
+
+- **Stage:** launched
+- **Status:** shipped
+- **Score:** 2.15 (R:1 S:3 U:2 M:1)
+- **Blocking:** None
+- **Next action:** Post LinkedIn announcement. Monitor GitHub for issues/stars.
+- **How to start:** `cd /mnt/c/GitHub/DocAI-Public && python app.py`
+- **Last updated:** 2026-03-17
